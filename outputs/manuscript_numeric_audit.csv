@@ -1,0 +1,13 @@
+manuscript_quantity,value,generated_source,derivation
+fold_lower_G,0.2547375424,outputs/folds.csv,"computed: root(F,F_S)=0"
+fold_lower_S,0.5198814960,outputs/folds.csv,"computed: root(F,F_S)=0"
+fold_upper_G,0.8976692317,outputs/folds.csv,"computed: root(F,F_S)=0"
+fold_upper_S,0.0801818818,outputs/folds.csv,"computed: root(F,F_S)=0"
+upper_lambda_minus,-10.8576188063,outputs/folds.csv,computed from Jacobian
+F_G_upper,0.4849137503,outputs/upper_fold_diagnostics.txt,finite-difference check
+F_SS_upper,105.0656724289,outputs/upper_fold_diagnostics.txt,finite-difference check
+K_upper,0.0990654759,outputs/upper_fold_diagnostics.txt,fold prefactor
+CSD_fit_slope,-0.4896188083,outputs/csd_deterministic.csv,log-log regression
+beta_c,5.4288094032,outputs/reproduction_report.txt,upper-fold transverse coefficient
+stochastic_rows,7,outputs/stochastic_summary.csv,fixed-seed Monte Carlo
+spectral_rows,4,outputs/spectral_cycles.csv,analytic graph spectrum

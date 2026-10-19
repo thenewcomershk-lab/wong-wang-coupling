@@ -1,0 +1,11 @@
+Independent reproduction report
+===============================
+Lower fold: G=0.2547375424, S=0.5198814960
+Upper fold: G=0.8976692317, S=0.0801818818
+Upper-fold lambda_minus=-10.8576188063
+F_G=0.4849137503
+F_SS=105.0656724289
+K=0.0990654759
+Deterministic scaling slope=-0.4896188083
+beta_c=5.4288094032
+Domain excursions in stochastic QC: False
