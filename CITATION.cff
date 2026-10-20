@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Reproduction package for coupling-scale invariance and mode-selective critical slowing in reduced Wong-Wang networks"
+type: software
+version: "1.0.0"
+authors:
+  - family-names: "Eshaghi Gordji"
+    given-names: "Majid"
+    orcid: "https://orcid.org/0000-0002-0077-1142"
+    affiliation: "Semnan University"
+  - family-names: "Fereydouni Forouzande"
+    given-names: "Nazanin"
+    orcid: "https://orcid.org/0009-0005-4699-8835"
+    affiliation: "Semnan University"
+  - family-names: "Haghighatkhah"
+    given-names: "Saeede"
+    orcid: "https://orcid.org/0009-0000-9296-1711"
+    affiliation: "Semnan University"
+license: MIT
+repository-code: "https://github.com/thenewcomershk-lab/wong-wang-coupling"
